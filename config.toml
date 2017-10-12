@@ -17,10 +17,10 @@ disqusShortname = "XYW"
 [params.author]
   thumbnail = "images/author.jpg"
   name = "Yudai Shinnoki"
-  description = "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p><p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
-  facebook = "https://www.facebook.com/daisuke.tsuji.735"
-  twitter = "https://twitter.com/dim0627"
-  github = "https://github.com/dim0627"
+  description = "<p>PHP/GCPAWS/</p>"
+  facebook = "https://www.facebook.com/y.shinnoki"
+  twitter = "https://twitter.com/konoki_nannoki"
+  github = "https://github.com/shinnoki"
 
 [outputs]
 page = [ "HTML", "AMP" ] # if you want AMP enable.
