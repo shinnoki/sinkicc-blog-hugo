@@ -1,4 +1,4 @@
-baseURL = "https://sinki.cc/"
+baseURL = "https://sinki.cc/blog/"
 languageCode = "ja-jp"
 title = "sinki.cc"
 theme = "hugo_theme_robust"
@@ -7,7 +7,7 @@ googleAnalytics = "UA-55398352-1" # Optional
 disqusShortname = "XYW"
 
 [params]
-  description = "This is site description"
+  description = "日々の学びのメモ"
   dateformat = "Jan 2, 2006" # Optional
   # Fonts settings.
   googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
@@ -17,7 +17,7 @@ disqusShortname = "XYW"
 [params.author]
   thumbnail = "images/author.jpg"
   name = "Yudai Shinnoki"
-  description = "<p>PHP/GCPAWS/</p>"
+  description = "<p>駆け出しのWeb系フリーランスエンジニアです。レガシーPHP、Androidアプリ、オンプレサーバーの管理などを経て、これからはLaravel、React Native、GCPを主軸にしていきたいです。</p>"
   facebook = "https://www.facebook.com/y.shinnoki"
   twitter = "https://twitter.com/konoki_nannoki"
   github = "https://github.com/shinnoki"
