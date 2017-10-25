@@ -1,3 +1,3 @@
-[submodule "themes/hugo_theme_robust"]
-	path = themes/hugo_theme_robust
+[submodule "blog/themes/hugo_theme_robust"]
+	path = blog/themes/hugo_theme_robust
 	url = https://github.com/shinnoki/hugo_theme_robust.git
