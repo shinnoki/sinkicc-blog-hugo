@@ -1,14 +1,17 @@
-baseURL = "https://sinki.cc/blog/"
 languageCode = "ja-jp"
 title = "sinki.cc"
-theme = "hugo_theme_robust"
+baseurl = "https://sinki.cc/blog/"
 
 googleAnalytics = "UA-55398352-1" # Optional
-disqusShortname = "XYW"
+disqusShortname = "sinki-cc"
+
+theme = "hugo_theme_robust"
+hasCJKLanguage = true
 
 [params]
   description = "日々の学びのメモ"
-  dateformat = "Jan 2, 2006" # Optional
+  dateformat = "2006-01-02" # Optional
+  # dateformat = "Jan 2, 2006" # Optional
   # Fonts settings.
   googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
   fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
